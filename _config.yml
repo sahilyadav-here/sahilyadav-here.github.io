@@ -17,17 +17,17 @@ social:
     url: https://twitter.com/sahil_yadav96
     
 # Google webmaster tools
-google_verify: NjTatYCYcMLHyG8KlfDMbuJy_lylgmYKrpiIlW1YMe4
+google_verify: google-site-verification=NjTatYCYcMLHyG8KlfDMbuJy_lylgmYKrpiIlW1YMe4
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: D08504
-  primary-rgb: "208, 133, 4"
-  secondary: 000000
-  secondary-dark: 000000
+  primary: 000000
+  primary-rgb: "0, 0, 0"
+  secondary: D08504
+  secondary-dark: D08504
   section-tout: eeaf44
 
 
