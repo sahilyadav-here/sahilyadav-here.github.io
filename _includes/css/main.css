@@ -97,7 +97,6 @@ header img {
     display: block;
     margin: 0 auto 20px;
 }
-
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
@@ -470,4 +469,7 @@ header img.profile-img {
 
 header .intro-text .name {
     font-size: 2.25em;
+}
+.name {
+    color:#eeaf44;
 }
