@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c690e8ca-679f-4576-be6b-9b09a8c7ed9e/deploy-status)](https://app.netlify.com/sites/priceless-mahavira-05edf0/deploys)
+
 This is an example one-pager site that prospective job-seekers can use to quickly
 highlight their accomplishments and make an introduction. It can be hosted for free using
 GitHub Pages (as a Jekyll page).
